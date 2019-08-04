@@ -1,0 +1,14 @@
+{
+  "name": "travisci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jshint app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jshint": "^2.10.2"
+  }
+}
